@@ -1,6 +1,7 @@
 {
   "name": "mithril-material-design-icons",
   "version": "0.0.3",
+  "main": "lib",
   "description": "Material Design SVG icons as Mithril elements.",
   "keywords": [
     "Material Design",
