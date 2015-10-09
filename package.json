@@ -15,7 +15,7 @@
   "license": "MIT",
   "jspm": {
     "files": [
-      "dist"
+      "dist/google-material-design-icons"
     ]
   }
 }
