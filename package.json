@@ -1,10 +1,11 @@
 {
   "name": "mithril-material-design-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Material Design SVG icons as Mithril elements.",
   "keywords": [
     "Material Design",
     "Icons",
+    "SVG",
     "Mithril"
   ],
   "repository": {
@@ -15,7 +16,7 @@
   "license": "MIT",
   "jspm": {
     "directories": {
-      "lib": "dist"
+      "lib": "lib"
     }
   }
 }
