@@ -14,8 +14,8 @@
   "author": "Arthur Clemens <arthurclemens@gmail.com> (http://visiblearea.com)",
   "license": "MIT",
   "jspm": {
-    "files": [
-      "dist/google-material-design-icons"
-    ]
+    "directories": {
+      "lib": "dist"
+    }
   }
 }
