@@ -1,8 +1,8 @@
 {
   "name": "mithril-material-design-icons",
-  "version": "0.0.3",
-  "main": "lib",
-  "description": "Material Design SVG icons as Mithril elements.",
+  "version": "0.0.4",
+  "main": "",
+  "description": "Mithril Material Design SVG icons",
   "keywords": [
     "Material Design",
     "Icons",
@@ -11,10 +11,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArthurClemens/mithril-material-design-icons"
+    "url": "https://github.com/ArthurClemens/mmsvg"
   },
   "author": "Arthur Clemens <arthurclemens@gmail.com> (http://visiblearea.com)",
   "license": "MIT",
+  "files": [
+      "google",
+      "templarian",
+      "zavoloklom"
+  ],
   "jspm": {
     "directories": {
       "lib": "lib"
