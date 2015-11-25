@@ -1,6 +1,6 @@
 {
   "name": "mmsvg",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "main": "",
   "description": "Mithril Material Design SVG icons",
   "keywords": [
@@ -19,10 +19,5 @@
       "google",
       "templarian",
       "zavoloklom"
-  ],
-  "jspm": {
-    "directories": {
-      "lib": "lib"
-    }
-  }
+  ]
 }
