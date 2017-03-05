@@ -1,0 +1,2 @@
+var m = require('mithril');
+module.exports = m.trust('<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>forward</title><desc>Created with Sketch.</desc><defs></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="forward" fill="#000000"><path d="M1,5 L10,10 L1,15 L1,5 Z M10,5 L19,10 L10,15 L10,5 Z" id="Combined-Shape"></path></g></g></svg>');
