@@ -1,2 +1,2 @@
 var m = require('mithril');
-module.exports = m.trust('<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>send</title><desc>Created with Sketch.</desc><defs></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="send" fill="#000000"><path d="M0,0 L20,10 L0,20 L0,0 Z M0,8 L10,10 L0,12 L0,8 Z" id="Combined-Shape"></path></g></g></svg>');
+module.exports = m.trust('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 0l20 10L0 20V0zm0 8v4l10-2L0 8z"/></svg>');

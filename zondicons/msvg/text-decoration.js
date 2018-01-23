@@ -1,2 +1,2 @@
 var m = require('mithril');
-module.exports = m.trust('<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>text-decoration</title><desc>Created with Sketch.</desc><defs></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="text-decoration" fill="#000000"><path d="M12,5 L10,5 L10,17 L8,17 L8,3 L9,3 L16,3 L16,5 L14,5 L14,17 L12,17 L12,5 Z M8,3 C5.790861,3 4,4.790861 4,7 C4,9.209139 5.790861,11 8,11 L8,3 Z" id="Combined-Shape"></path></g></g></svg>');
+module.exports = m.trust('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12 5h-2v12H8V3h8v2h-2v12h-2V5zM8 3a4 4 0 1 0 0 8V3z"/></svg>');
