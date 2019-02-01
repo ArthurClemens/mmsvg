@@ -1,0 +1,2 @@
+var m = require('mithril');
+module.exports = m.trust('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve"><path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 22,2L 22,12L 20,12L 20,5.41L 10.41,15L 12.71,17.29L 11.29,18.71L 9,16.41L 3.71,21.71L 2.29,20.29L 7.59,15L 5.29,12.71L 6.71,11.29L 9,13.59L 18.59,4L 12,4L 12,2L 22,2 Z "/></svg>');
